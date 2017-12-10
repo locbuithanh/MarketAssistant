@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Butalo\Downloads\ARToolKit5-bin-5.3.2-Android\AndroidStudioProjects\ARSimpleProj\aRSimple\build\intermediates\exploded-aar\ARSimpleProj\aRBaseLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44b025e216f91da596373dc8e6ade4a694e550b8">
+        <dex dex="C:\Users\Butalo\Downloads\ARToolKit5-bin-5.3.2-Android\AndroidStudioProjects\ARSimpleProj\aRSimple\build\intermediates\pre-dexed\debug\classes-1c9a5663b9aea1d0e0dc21264c0a6af3095f8b3a.jar" />
+    </item>
+
+</items>

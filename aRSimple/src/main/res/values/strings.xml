@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MarketAssistant</string>
+    <string-array name="location">
+        <item>Bakery</item>
+        <item>Cosmestic</item>
+        <item>Frozen Foods</item>
+        <item>Meat and Seafoods</item>
+        <item>Beverage</item>
+        <item>Toys</item>
+    </string-array>
+</resources>
